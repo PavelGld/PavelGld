@@ -1,8 +1,3 @@
-# PavelGld.github.io
-
-
-
-
 ## 🚀 Hi! My name is Pavel Gladkih. Specialist in mathematical modeling and data scientist.
 
 I am engaged in modeling the evolution of internal structures in metals and alloys during metal forming using crystal plasticity. 
