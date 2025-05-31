@@ -2,8 +2,6 @@
 **Data Scientist & Mathematical Modeling Specialist**<br>
 *Modeling metal evolution through crystal plasticity & ML applications*
 
-[![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=2&line1=python,python,auto;c%2B%2B,c%2B%2B,auto;wolfram,wolfram,auto;pytorch,pytorch,auto;scikit-learn,scikit-learn,auto;opencv,opencv,auto&line3=pandas,pandas,auto;numpy,numpy,auto;scipy,scipy,auto;abaqus,abaqus,auto;ansys,ansys,auto;git,git,auto&theme=github_dark&width=600)](https://github-readme-tech-stack.vercel.app)
-
 ### 💼 Experience
 **Junior Researcher** @ Laboratory for Multilevel Modeling of Structural and Functional Materials, PNRPU<br>
 *February 2022 - Present*<br>
