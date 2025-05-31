@@ -24,7 +24,7 @@ Machine learning and artificial neural networks, PNRPU
 
 🤼 Some competitions
 
-Iprofi - RZD_Hackaton 2024 | Winner
+Iprofi - RZD_Hackathon 2024 | Winner
 
 RuCODE 6.0 "Car colour classification" 2022 | Participant
 
