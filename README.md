@@ -1,60 +1,55 @@
-## 🚀 Hi! My name is Pavel Gladkih. Specialist in mathematical modeling and data scientist.
+## 🚀 Pavel Gladkih
+**Data Scientist & Mathematical Modeling Specialist**<br>
+*Modeling metal evolution through crystal plasticity & ML applications*
 
+[![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=2&line1=python,python,auto;c%2B%2B,c%2B%2B,auto;wolfram,wolfram,auto;pytorch,pytorch,auto;scikit-learn,scikit-learn,auto;opencv,opencv,auto&line2=pandas,pandas,auto;numpy,numpy,auto;scipy,scipy,auto;abaqus,abaqus,auto;ansys,ansys,auto;git,git,auto&theme=github_dark)](https://github-readme-tech-stack.vercel.app)
 
-I am engaged in modeling the evolution of internal structures in metals and alloys during metal forming using crystal plasticity. 
+### 💼 Experience
+**Junior Researcher** @ Laboratory for Multilevel Modeling of Structural and Functional Materials, PNRPU<br>
+*February 2022 - Present*<br>
+*Focus: NLP, CV, Classic ML, Multilevel modeling*
 
-In addition, I apply machine learning and deep learning methods to automate and analyze the obtained data. 
+### 🛠️ Tech Stack & Skills
+**Programming & ML:**
+- **Languages:** Python, C++, Wolfram
+- **ML/DL:** PyTorch, scikit-learn, OpenCV
+- **Data Processing:** pandas, numpy, scipy
+- **Engineering:** Abaqus, Logos, ANSYS
+- **Tools:** Git, Docker, MathType, Jupyter
 
+**Domain Expertise:**
+- Crystal Plasticity Modeling
+- Finite Element Analysis
+- Materials Science
+- Mathematical Modeling
+- Computer Vision
+- Natural Language Processing
 
-💻 Work experience
+### 🎓 Education
+- **Master's** in Applied Mathematics and Informatics, PNRPU (2025) *5.0/5.0*
+- **Bachelor's** in Applied Mathematics and Informatics, PNRPU (2023) *4.97/5.0*
+- **Deep Learning School** (Advanced), MIPT
+- **Machine Learning and ANN**, PNRPU
 
-Junior Researcher at the Laboratory for Multilevel Modeling of Structural and Functional Materials, PNRPU (February 2022 - now) - NLP, CV, Classic ML, Multilevel modeling
+### 🏆 Achievements
+- **Competitions:**
+  - 🥇 Winner, Iprofi - RZD_Hackathon 2024
+  - Participant, RuCODE 6.0 "Car colour classification" 2022
+  - Participant, RuCODE 6.0 "Sentence-Correction" 2022
+- **Academic:**
+  - 🥉 Bronze medalist, International Open Student Internet Mathematics Olympiad (OIIO) 2021, 2022
+  - 🏆 Winner, All-Russian Olympiad "I Am a Professional" in Materials Science
+  - 🥈 Prize-winner, All-Russian Olympiad "I Am a Professional" in Mathematical Modeling
 
+### 🔬 Current Projects
+- **Research Engineer Assistant** — PyAbaqus script automation agent for engineering solutions
+- **MaterialSearchBot** — Telegram bot for metal/alloy data search using LLM (Perplexity & DeepSeek)
+- **Modified Lin Model** — Development of efficient elastic-plastic model for metal structures
 
-🎓 Education
+### 📊 GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PavelGld)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelGld&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Bachelor's degree from PNRPU (class of 2023). Applied Mathematics and Informatics 4.97/5
-
-Master's degree from PNRPU (class of 2025). Applied Mathematics and Informatics 5/5
-
-Deep learning school (advanced first semester),MIPT (second degree diploma)
-
-Machine learning and artificial neural networks, PNRPU
-
-
-🤼 Some competitions
-
-Iprofi - RZD_Hackathon 2024 | Winner
-
-RuCODE 6.0 "Car colour classification" 2022 | Participant
-
-RuCODE 6.0 "Sentence-Correction" 2022 | Participant
-
-
-
-🔝 Other Achievements
-
-Bronze medalist in the International Open Student Internet Mathematics Olympiad (OIIO) - 2021, 2022
-
-Prize-winner of the All-Russian Olympiad “I Am a Professional” in the field of mathematical modeling - 2023
-
-Winner of the All-Russian Olympiad “I Am a Professional” in the field of materials science and materials technology
-
-
-
-## ? Current projects
-– **Research Engineer Assistant** — Agent for writing PyAbaqus scripts for solving and documenting engineering problems.
-
-– **MaterialSearchBot** — Telegram bot for automatic search of experimental data and parameters of metals and alloys based on LLM Perplexity and DeepSeek.
-
-– **Modified Lin model** — Development of a modified elastic-plastic model for computationally efficient modeling of metal structures.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavelGld)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelGld&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## ? Contacts
-- Email: gladkikh.p@yandex.ru
-- Telegram: @PavelGladkih
-
+### 📫 Contact
+- 📧 gladkikh.p@yandex.ru
+- 💬 [@PavelGladkih](https://t.me/PavelGladkih)
