@@ -43,6 +43,7 @@
 - **Research Engineer Assistant** — PyAbaqus script automation agent for engineering solutions
 - **MaterialSearchBot** — Telegram bot for metal/alloy data search using LLM (Perplexity & DeepSeek)
 - **Modified Lin Model** — Development of efficient elastic-plastic model for metal structures
+- **Approximator of physical relationships** — RNN model for approximating stress-strain relationships in physically oriented models
 
 ### 📊 GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PavelGld)](https://github.com/anuraghazra/github-readme-stats)
