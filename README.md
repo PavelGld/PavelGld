@@ -36,8 +36,9 @@
   - Participant, RuCODE 6.0 "Sentence-Correction" 2022
 - **Academic:**
   - 🥉 Bronze medalist, International Open Student Internet Mathematics Olympiad (OIIO) 2021, 2022
-  - 🏆 Winner, All-Russian Olympiad "I Am a Professional" in Materials Science
-  - 🥈 Prize-winner, All-Russian Olympiad "I Am a Professional" in Mathematical Modeling
+  - 🏆 Winner, All-Russian Olympiad "I Am a Professional" in Materials Science 2024
+  - 🏆 Winner, All-Russian Olympiad "I Am a Professional" in Metallurgy
+  - 🥈 Prize-winner, All-Russian Olympiad "I Am a Professional" in Mathematical Modeling 2023, 2025
 
 ### 🔬 Current Projects
 - **Research Engineer Assistant** — PyAbaqus script automation agent for engineering solutions
