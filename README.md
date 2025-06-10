@@ -37,7 +37,7 @@
 - **Academic:**
   - 🥉 Bronze medalist, International Open Student Internet Mathematics Olympiad (OIIO) 2021, 2022
   - 🏆 Winner, All-Russian Olympiad "I Am a Professional" in Materials Science 2024
-  - 🏆 Winner, All-Russian Olympiad "I Am a Professional" in Metallurgy
+  - 🏆 Winner, All-Russian Olympiad "I Am a Professional" in Metallurgy 2025
   - 🥈 Prize-winner, All-Russian Olympiad "I Am a Professional" in Mathematical Modeling 2023, 2025
 
 ### 🔬 Current Projects
