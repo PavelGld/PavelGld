@@ -31,10 +31,10 @@
 
 ### 🏆 Achievements
 - **Competitions:**
-  - 🥇 Winner, Iprofi - RZD_Hackathon 2024 "Prediction of delivery of goods by rail"
+  - 🥇 Winner, Iprofi - RZD_Hackathon 2024 ["Prediction of delivery of goods by rail"](https://github.com/rondi201/RZD_Hackaton_2024)
   - 🥈 Prize-winner, Iprofi - Sber_Hackathon 2025 "Designing a platform for inter-university student exchange"
-  - Participant, RuCODE 6.0 "Car colour classification" 2022
-  - Participant, RuCODE 6.0 "Sentence-Correction" 2022
+  - Participant, RuCODE 6.0 ["Car colour classification"](https://github.com/PavelGld/RuCode-CarClassification) 2022
+  - Participant, RuCODE 6.0 ["Sentence-Correction"](https://github.com/PavelGld/RuCode-SentenceCorrection) 2022
 - **Academic:**
   - 🥉 Bronze medalist, International Open Student Internet Mathematics Olympiad (OIIO) 2021, 2022
   - 🏆 Winner, All-Russian Olympiad "I Am a Professional" in Materials Science 2024
