@@ -31,7 +31,8 @@
 
 ### 🏆 Achievements
 - **Competitions:**
-  - 🥇 Winner, Iprofi - RZD_Hackathon 2024
+  - 🥇 Winner, Iprofi - RZD_Hackathon 2024 "Prediction of delivery of goods by rail"
+  - 🥈 Prize-winner, Iprofi - Sber_Hackathon 2025 "Designing a platform for inter-university student exchange"
   - Participant, RuCODE 6.0 "Car colour classification" 2022
   - Participant, RuCODE 6.0 "Sentence-Correction" 2022
 - **Academic:**
