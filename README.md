@@ -32,7 +32,7 @@
 ### 🏆 Achievements
 - **Competitions:**
   - 🥇 Winner, Iprofi - RZD_Hackathon 2024 ["Prediction of delivery of goods by rail"](https://github.com/rondi201/RZD_Hackaton_2024) and [Web visualization](https://github.com/PavelGld/DeliveryTracker)
-  - 🥈 Prize-winner, Iprofi - Sber_Hackathon 2025 ["Designing a platform for inter-university student exchange"](https://github.com/PavelGld/Designing-a-platform-for-inter-university-student-exchange)
+  - 🥈 Prize-winner, Iprofi - Sber_Hackathon 2025 ["Designing a platform for inter-university student exchange"](https://github.com/PavelGld/Designing-a-platform-for-inter-university-student-exchange) ( [Web prototype](https://github.com/PavelGld/AcademicExchangeAI-2) )
   - Participant, RuCODE 6.0 ["Car colour classification"](https://github.com/PavelGld/RuCode-CarClassification) 2022
   - Participant, RuCODE 6.0 ["Sentence-Correction"](https://github.com/PavelGld/RuCode-SentenceCorrection) 2022
 - **Academic:**
