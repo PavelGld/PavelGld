@@ -36,7 +36,7 @@
   - Participant, RuCODE 6.0 ["Car colour classification"](https://github.com/PavelGld/RuCode-CarClassification) 2022
   - Participant, RuCODE 6.0 ["Sentence-Correction"](https://github.com/PavelGld/RuCode-SentenceCorrection) 2022
 - **Academic:**
-  - 🥉 Bronze medalist, International Open Student Internet Mathematics Olympiad (OIIO) 2021, 2022
+  - 🥉 Bronze medalist, International Open Student Internet Mathematics Olympiad (OIIO) 2020, 2022
   - 🏆 Winner, All-Russian Olympiad "I Am a Professional" in Materials Science 2024
   - 🏆 Winner, All-Russian Olympiad "I Am a Professional" in Metallurgy 2025
   - 🥈 Prize-winner, All-Russian Olympiad "I Am a Professional" in Mathematical Modeling 2023, 2025
