@@ -47,7 +47,7 @@
 ### 🔬 Current Projects
 - **Research Engineer Assistant** — PyAbaqus script automation agent for engineering solutions
 - **MaterialSearchBot** — Telegram bot for metal/alloy data search using LLM (Perplexity & DeepSeek)
-- **Modified Lin Model** — Development of efficient elastic-plastic model for metal structures["link"](https://doi.org/10.15593/2499-9873/2023.3.02)
+- **Modified Lin Model** — Development of efficient elastic-plastic model for metal structures [(link)](https://doi.org/10.15593/2499-9873/2023.3.02)
 - **Approximator of physical relationships** — RNN model for approximating stress-strain relationships in physically oriented models
 
 ### 📊 GitHub Stats
