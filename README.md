@@ -12,7 +12,7 @@
 - **Languages:** Python, C++, Wolfram
 - **ML/DL:** PyTorch, scikit-learn, OpenCV
 - **Data Processing:** pandas, numpy, scipy
-- **Engineering:** Abaqus, Logos, ANSYS
+- **Engineering:** Abaqus, Logos, Ansys
 - **Tools:** Git, Docker, MathType, Jupyter
 
 **Domain Expertise:**
