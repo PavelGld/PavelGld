@@ -26,7 +26,7 @@
 ### 🎓 Education
 - **Master's** in Applied Mathematics and Informatics, PNRPU (2025) *5.0/5.0*
 - **Bachelor's** in Applied Mathematics and Informatics, PNRPU (2023) *4.97/5.0*
-- ["**Deep Learning School**"](https://disk.yandex.ru/i/eV0lu5De-Hfpfw) (Advanced), MIPT
+- [**Deep Learning School**](https://disk.yandex.ru/i/eV0lu5De-Hfpfw) (Advanced), MIPT
 - **Machine Learning and ANN**, PNRPU
 
 ### 🏆 Achievements
