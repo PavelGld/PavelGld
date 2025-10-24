@@ -42,7 +42,7 @@
   - 🥈 Prize-winner, All-Russian Olympiad "I Am a Professional" in Mathematical Modeling 2023, 2025
 - **Other:**
   - Top 86/100 Yandex ML-Blitz ["DataDojo"](https://disk.yandex.ru/i/VBvbCZ4CNYoPxg) 2025
-  - Top 150 ML trainings from Yandex ["1.0"](https://disk.yandex.ru/i/B2I2HKK4PGhwDA), ["3.0"](https://disk.yandex.ru/i/cOYIjZpeOAQ4BA) and 4 
+  - Top 150 ML trainings from Yandex ["1.0"](https://disk.yandex.ru/i/B2I2HKK4PGhwDA), ["3.0"](https://disk.yandex.ru/i/cOYIjZpeOAQ4BA) and ["4.0"](https://disk.yandex.ru/i/uJMp7OrK-dis7w) 
 
 ### 🔬 Current Projects
 - **Research Engineer Assistant** — PyAbaqus script automation agent for engineering solutions
