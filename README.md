@@ -24,8 +24,8 @@
 - Natural Language Processing
 
 ### 🎓 Education
-- **Master's** in Applied Mathematics and Informatics, PNRPU (2025) *5.0/5.0*
-- **Bachelor's** in Applied Mathematics and Informatics, PNRPU (2023) *4.97/5.0*
+- **Master's** in Applied Mathematics and Computer science, PNRPU (2025) *5.0/5.0*
+- **Bachelor's** in Applied Mathematics and Computer science, PNRPU (2023) *4.97/5.0*
 - **Deep Learning School**(Advanced), MIPT
 - **Machine Learning and ANN**, PNRPU
 
