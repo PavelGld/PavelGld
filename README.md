@@ -45,14 +45,15 @@
   - Top 150 ML trainings from Yandex ["1.0"](https://disk.yandex.ru/i/B2I2HKK4PGhwDA), ["3.0"](https://disk.yandex.ru/i/cOYIjZpeOAQ4BA) and ["4.0"](https://disk.yandex.ru/i/uJMp7OrK-dis7w) 
 
 ### 🔬 Current Projects
-- **Research Engineer Assistant** — PyAbaqus script automation agent for engineering solutions
-- **MaterialSearchBot** — Telegram bot for metal/alloy data search using LLM (Perplexity & DeepSeek)
-- **Modified Lin Model** — Development of efficient elastic-plastic model for metal structures [(link)](https://doi.org/10.15593/2499-9873/2023.3.02)
 - **Approximator of physical relationships** — RNN model for approximating stress-strain relationships in physically oriented models
+- **AlloyStructEncoder** — Deep learning compression of alloy structural data
+
+### 🚀 Completed Projects
+- **Modified Lin Model** — Development of efficient elastic-plastic model for metal structures [(link)](https://doi.org/10.15593/2499-9873/2023.3.02)
+- **MaterialSearchBot** — Telegram bot for metal/alloy data search using LLM (Perplexity & DeepSeek)
 
 ### 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PavelGld)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelGld&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PavelGld&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ### 📫 Contact
 - 📧 gladkikh.p@yandex.ru
