@@ -53,7 +53,9 @@
 - **MaterialSearchBot** — Telegram bot for metal/alloy data search using LLM (Perplexity & DeepSeek)
 
 ### 📊 GitHub Stats
-[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PavelGld&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://github-readme-stats.shion.dev/api?username=PavelGld&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=PavelGld&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=PavelGld&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 📫 Contact
 - 📧 gladkikh.p@yandex.ru
